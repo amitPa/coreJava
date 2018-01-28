@@ -1,4 +1,4 @@
-package com.executorpool.map;
+package com.executorpool.concurrency;
 
 import java.util.Arrays;
 
